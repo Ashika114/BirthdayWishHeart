@@ -151,13 +151,13 @@
     width:200px;
   }
   .notes:before {
-    content:"Happy Birthday PIYU!";
+    content:"Happy Birthday";
     top:30px;
     color: #d04e4e;
     font-family: 'Protest Riot', sans-serif;
   }
   .notes:after {
-    content:"day!";
+    content:" PIYU!";
     top:60px;
     font-family: 'Protest Riot', sans-serif;
   }
